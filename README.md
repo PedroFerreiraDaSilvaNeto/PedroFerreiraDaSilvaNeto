@@ -1,6 +1,6 @@
 <h1 align="left">Oi!! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou o Pedro 🎓
 </h1>
- Oi, Sou Pedro Ferreira, estou cursando Analise e desenvolvimento de sistema na UNISENAI em Florianópolis 
+ Oi, Sou Pedro Ferreira, estou cursando Analise e desenvolvimento de sistema na UNISENAI em Florianópolis e praticando linguagens como Python e Java Script.
 
 <br>
 <br>
