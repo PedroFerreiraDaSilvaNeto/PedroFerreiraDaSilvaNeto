@@ -1,26 +1,33 @@
-<h1 align="left">Oi!! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou o Pedro 🎓</h1>
+<h1 align="left">Oi!! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou o Pedro 🎓
+</h1>
+ Oi, Sou Pedro Ferreira, estou cursando Analise e desenvolvimento de sistema na UNISENAI em Florianópolis 
 
- 
-  
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PedroFerreiraDaSilvaNeto&color=yellow" alt="Profile views" /> </p>
+<br>
 
-
+<h2> Redes sociais </2>
 
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro1977ferreira/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-ferreira-da-silva-neto-37a040263/)
+
+
 
 ![PedroFerreiraDaSilvaNeto GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroFerreiraDaSilvaNeto&show_icons=true&theme=dark)
 
 ## Tecnologias que procuro me aperfeiçoar
 
-<div style="display: inline_block"><br/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-</div><br/>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ 
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ 
+</div>
+
+<br/>
 
 
 
-Estudante de Análise e desenvolvimento de sistema - UNISENAI  Campus Florianópolis.
-Também gosto de estudar Programação.
