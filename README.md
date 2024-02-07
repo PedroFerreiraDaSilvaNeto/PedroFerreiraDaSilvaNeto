@@ -22,6 +22,7 @@
 
 ![PedroFerreiraDaSilvaNeto GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroFerreiraDaSilvaNeto&show_icons=true&theme=dark)
 
+
 <!-- Portfolio -->
 ## Portfolio:
 - [HTML-Formulário](https://github.com/PedroFerreiraDaSilvaNeto/UNISENAI-trabalho-academico-Formulariuo-ProjetoAplicado)
@@ -38,6 +39,6 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  
-</div>
+</div><br>
 
-<br/>
+![da0b965a91d6a9117ac47710a5e9341c](https://github.com/PedroFerreiraDaSilvaNeto/PedroFerreiraDaSilvaNeto/assets/111969833/eb1db5bc-b82e-45c3-8983-63d57a7b687f)
