@@ -5,10 +5,10 @@
 <br>
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PedroFerreiraDaSilvaNeto&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PedroFerreiraDaSilvaNeto&color=yellow" alt="Profile views" /> </p><br>
 
-<br>
 
+![da0b965a91d6a9117ac47710a5e9341c](https://github.com/PedroFerreiraDaSilvaNeto/PedroFerreiraDaSilvaNeto/assets/111969833/eb1db5bc-b82e-45c3-8983-63d57a7b687f)
 <h2> Redes sociais </2> 
 
  <br>
@@ -41,4 +41,4 @@
  
 </div><br>
 
-![da0b965a91d6a9117ac47710a5e9341c](https://github.com/PedroFerreiraDaSilvaNeto/PedroFerreiraDaSilvaNeto/assets/111969833/eb1db5bc-b82e-45c3-8983-63d57a7b687f)
+
