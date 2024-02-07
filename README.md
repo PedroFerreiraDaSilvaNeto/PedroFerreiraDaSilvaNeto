@@ -30,7 +30,7 @@
 - [CSS-Projeto Login](https://github.com/PedroFerreiraDaSilvaNeto/CURSO-EM-VIDEO-Projeto-Login)
 - [Python-Projeto Aplicado- UNISENAI](https://github.com/PedroFerreiraDaSilvaNeto/Projeto_Aplicado3)
 
-## Tecnologias que procuro me aperfeiçoar
+## Tecnologias onde procuro me aperfeiçoar
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
